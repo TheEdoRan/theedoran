@@ -15,6 +15,7 @@
 - ✍️ VIM
 - ⚛️ React
 - 🍵 Green tea and 🍕🍝 good food
+- 🐈🐈‍⬛ Cats!
 
 ### Right now I'm using:
 
