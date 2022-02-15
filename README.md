@@ -4,7 +4,7 @@
 >
 > 👤 [pronoun.is/he](https://pronoun.is/he)
 
-<img alt="Coding GIF" src="https://i.imgur.com/MvMxQ1a.gif" width="460" height="257" />
+<img alt="Coding GIF" src="https://i.imgur.com/MvMxQ1a.gif" width="470" />
 
 <sub><sup><a href="https://www.youtube.com/watch?v=Wga5A6R9BJg">source</a><sub></sup>
 
