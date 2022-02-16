@@ -21,7 +21,7 @@
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-1165bf?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-59a80a?style=flat-square&logo=neovim&logoColor=white" />
 
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" /> <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
 <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-1da6e0?style=flat-square&logo=tailwindcss&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="Figma" src="https://img.shields.io/badge/-Figma-1a1817?style=flat-square&logo=figma&logoColor=white" />
 
