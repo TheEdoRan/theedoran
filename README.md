@@ -2,7 +2,7 @@
 
 > I'm **Edoardo**. Welcome to my GitHub profile.
 >
-> 👤 [pronoun.is/he](https://pronoun.is/he)
+> 👤 My [pronoun.is/he](https://pronoun.is/he)
 
 <img alt="Coding GIF" src="https://i.imgur.com/MvMxQ1a.gif" width="470" />
 
