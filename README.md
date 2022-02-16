@@ -27,7 +27,7 @@
 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d9a30f?style=flat-square&logo=javascript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
 
-<img alt="Express" src="https://img.shields.io/badge/-Express-129448?style=flat-square&logo=express&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-23b8d9?style=flat-square&logo=hasura&logoColor=white" /> <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-129448?style=flat-square&logo=express&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-23b8d9?style=flat-square&logo=hasura&logoColor=white" /> <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-008bb9?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa000?style=flat-square&logo=firebase&logoColor=white" />
 
