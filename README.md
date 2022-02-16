@@ -51,6 +51,6 @@ I'm currently working on [flowie](https://flowie.art) and [Casterly](https://git
 
 <p align="center">Find me on</p>
 
-<p align="center"><a href="https://edoardo.ranghieri.com"><img alt="TheEdoRan website" width="60" height="60" src="./img/website_logo.png"/></a> <a href="https://twitter.com/TheEdoRan"><img alt="TheEdoRan Twitter" widht="60" height="60" src="./img/twitter_logo.png"/></a></p>
+<p align="center"><a href="https://edoardo.ranghieri.com"><img alt="TheEdoRan website" width="60" height="60" src="./img/website_logo.png"/></a> <a href="https://twitter.com/TheEdoRan"><img alt="TheEdoRan Twitter" width="60" height="60" src="./img/twitter_logo.png"/></a></p>
 
 <h3 align="center">Have a nice day! 🌞</h3>
