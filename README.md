@@ -2,7 +2,7 @@
 
 > I'm **Edoardo**. Welcome to my GitHub profile.
 >
-> 👤 My [pronoun.is/he](https://pronoun.is/he)
+> 👤 My [pronoun.is/he](https://pronoun.is/he).
 
 <img alt="Coding GIF" src="https://i.imgur.com/MvMxQ1a.gif" width="470" />
 
@@ -27,11 +27,11 @@
 
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d9a30f?style=flat-square&logo=javascript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />
 
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-23b8d9?style=flat-square&logo=hasura&logoColor=white" /> <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/-Express-129448?style=flat-square&logo=express&logoColor=white" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-23b8d9?style=flat-square&logo=hasura&logoColor=white" /> <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-008bb9?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa000?style=flat-square&logo=firebase&logoColor=white" />
 
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-11aad4?style=flat-square&logo=react&logoColor=white" /> <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-11aad4?style=flat-square&logo=react&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-1c1c1c?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-11aad4?style=flat-square&logo=react&logoColor=white" /> <img alt="Expo" src="https://img.shields.io/badge/-Expo-664fff?style=flat-square&logo=expo&logoColor=white" /> <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-1c1c1c?style=flat-square&logo=nextdotjs&logoColor=white" />
 
 <img alt="pnpm" src="https://img.shields.io/badge/-PNPM-CB3837?style=flat-square&logo=pnpm&logoColor=white" /> <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
