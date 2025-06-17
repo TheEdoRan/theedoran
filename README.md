@@ -1,1 +1,1 @@
-Currently maintaining open source libraries and working on a 🎸🎵 project. 👀
+Currently maintaining open source libraries and working on some projects. 👀
